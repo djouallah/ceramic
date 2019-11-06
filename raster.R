@@ -1,6 +1,7 @@
 library(sf)
 library(tmap)
 library(ceramic)
+library(readr)
 
 
 pathfile="https://raw.githubusercontent.com/djouallah/ceramic/master/sa.csv"
